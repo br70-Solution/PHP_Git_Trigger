@@ -1,1 +1,1 @@
-<?php echo 'PHP GIT TRIGGER '; ?>
+<?php echo 'PHP GIT TRIGGER ok '; ?>
